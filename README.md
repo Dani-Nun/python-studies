@@ -1,6 +1,6 @@
 # Python Studies
 
-Fundamentals and automation scripts built during my learning journey in Information Security and Data Science.
+Fundamentals and automation scripts built during my learning journey in Cybersecurity and Data Science.
 
 ## Topics Covered
 - Variables and data types
