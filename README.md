@@ -1,2 +1,12 @@
-# estudos-python
-Scripts de estudo e automação - Fase 0 do portfólio
+# Python Studies
+
+Fundamentals and automation scripts built during my learning journey in Information Security and Data Science.
+
+## Topics Covered
+- Variables and data types
+- Conditionals
+- Loops
+- Functions
+
+## Tech Stack
+- Python 3.14
